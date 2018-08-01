@@ -1,6 +1,0 @@
-<<<<<<< Updated upstream
-hi i am parisa
-
-=======
-hi i am 
->>>>>>> Stashed changes
